@@ -13,7 +13,6 @@ body {
     background-color: rgb(160, 158, 156);
     min-height: 100vh;
 }
-
 .wrapper {
     width: 420px;
     background-color: #fff;
@@ -139,15 +138,3 @@ ul .content {
 ul .content::-webkit-scrollbar{
     width: 0px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
